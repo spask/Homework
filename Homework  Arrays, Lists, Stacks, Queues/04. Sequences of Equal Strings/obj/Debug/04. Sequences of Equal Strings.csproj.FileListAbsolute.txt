@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\bin\Debug\_04.Sequences_of_Equal_Strings.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\bin\Debug\_04.Sequences_of_Equal_Strings.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\bin\Debug\_04.Sequences_of_Equal_Strings.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\obj\Debug\_04.Sequences_of_Equal_Strings.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\obj\Debug\_04.Sequences_of_Equal_Strings.pdb

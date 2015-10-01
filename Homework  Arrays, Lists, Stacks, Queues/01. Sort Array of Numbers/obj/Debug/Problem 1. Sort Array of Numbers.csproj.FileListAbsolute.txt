@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\obj\Debug\Problem 1. Sort Array of Numbers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.pdb

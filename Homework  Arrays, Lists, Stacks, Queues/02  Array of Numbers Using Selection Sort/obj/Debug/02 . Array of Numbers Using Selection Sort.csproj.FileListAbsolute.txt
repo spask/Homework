@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\02  Array of Numbers Using Selection Sort\bin\Debug\02  Array of Numbers Using Selection Sort.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\02  Array of Numbers Using Selection Sort\obj\Debug\02  Array of Numbers Using Selection Sort.exe
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\02  Array of Numbers Using Selection Sort\obj\Debug\02  Array of Numbers Using Selection Sort.pdb
+C:\Users\User\Documents\GitHub\Homework\Homework  Arrays, Lists, Stacks, Queues\02  Array of Numbers Using Selection Sort\bin\Debug\02  Array of Numbers Using Selection Sort.exe.config
+C:\Users\User\Documents\GitHub\Homework\Homework  Arrays, Lists, Stacks, Queues\02  Array of Numbers Using Selection Sort\obj\Debug\02  Array of Numbers Using Selection Sort.exe
+C:\Users\User\Documents\GitHub\Homework\Homework  Arrays, Lists, Stacks, Queues\02  Array of Numbers Using Selection Sort\obj\Debug\02  Array of Numbers Using Selection Sort.pdb

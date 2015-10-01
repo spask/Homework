@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 . Array of Numbers Using Selection Sort", "02  Array of Numbers Using Selection Sort\02 . Array of Numbers Using Selection Sort.csproj", "{EE1DE82F-88A6-4BFB-A350-15E5BFAFA296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Categorize Numbers and Find Min  Max", "03. Categorize Numbers and Find Min  Max\03. Categorize Numbers and Find Min  Max.csproj", "{6E52C3DB-590B-4D3B-8C81-84EB8780E4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Longest Increasing Sequence", "05.Longest Increasing Sequence\05.Longest Increasing Sequence.csproj", "{68A81C86-CCB1-4304-8B1C-29E20872728E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Subset Sum", "06.Subset Sum\06.Subset Sum.csproj", "{CEDF0BE8-BA54-4342-8AF0-89F864FBC8DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortArrayOfNumbers", "01.SortArrayOfNumbers\01.SortArrayOfNumbers.csproj", "{C0375DD9-949C-4506-B519-AD9A10784B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sequences of Equal Strings", "04. Sequences of Equal Strings\04. Sequences of Equal Strings.csproj", "{31A3D927-41A9-49EA-B862-911D0604FB18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE1DE82F-88A6-4BFB-A350-15E5BFAFA296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1DE82F-88A6-4BFB-A350-15E5BFAFA296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1DE82F-88A6-4BFB-A350-15E5BFAFA296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1DE82F-88A6-4BFB-A350-15E5BFAFA296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E52C3DB-590B-4D3B-8C81-84EB8780E4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E52C3DB-590B-4D3B-8C81-84EB8780E4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E52C3DB-590B-4D3B-8C81-84EB8780E4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E52C3DB-590B-4D3B-8C81-84EB8780E4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A81C86-CCB1-4304-8B1C-29E20872728E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A81C86-CCB1-4304-8B1C-29E20872728E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A81C86-CCB1-4304-8B1C-29E20872728E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A81C86-CCB1-4304-8B1C-29E20872728E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDF0BE8-BA54-4342-8AF0-89F864FBC8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDF0BE8-BA54-4342-8AF0-89F864FBC8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDF0BE8-BA54-4342-8AF0-89F864FBC8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDF0BE8-BA54-4342-8AF0-89F864FBC8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0375DD9-949C-4506-B519-AD9A10784B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0375DD9-949C-4506-B519-AD9A10784B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0375DD9-949C-4506-B519-AD9A10784B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0375DD9-949C-4506-B519-AD9A10784B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A3D927-41A9-49EA-B862-911D0604FB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A3D927-41A9-49EA-B862-911D0604FB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A3D927-41A9-49EA-B862-911D0604FB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A3D927-41A9-49EA-B862-911D0604FB18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

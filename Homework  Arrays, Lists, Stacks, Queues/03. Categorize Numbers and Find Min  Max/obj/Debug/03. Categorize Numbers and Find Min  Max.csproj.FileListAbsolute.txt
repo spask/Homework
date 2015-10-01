@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min  Max\bin\Debug\_03.Categorize_Numbers_and_Find_Min__Max.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min  Max\bin\Debug\_03.Categorize_Numbers_and_Find_Min__Max.exe
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min  Max\bin\Debug\_03.Categorize_Numbers_and_Find_Min__Max.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min  Max\obj\Debug\03. Categorize Numbers and Find Min  Max.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min  Max\obj\Debug\_03.Categorize_Numbers_and_Find_Min__Max.exe
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min  Max\obj\Debug\_03.Categorize_Numbers_and_Find_Min__Max.pdb

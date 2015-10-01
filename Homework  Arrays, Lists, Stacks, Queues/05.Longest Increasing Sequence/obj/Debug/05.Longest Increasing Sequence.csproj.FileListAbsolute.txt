@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\05.Longest Increasing Sequence\bin\Debug\05.Longest Increasing Sequence.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\05.Longest Increasing Sequence\bin\Debug\05.Longest Increasing Sequence.exe
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\05.Longest Increasing Sequence\bin\Debug\05.Longest Increasing Sequence.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\05.Longest Increasing Sequence\obj\Debug\05.Longest Increasing Sequence.exe
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\05.Longest Increasing Sequence\obj\Debug\05.Longest Increasing Sequence.pdb

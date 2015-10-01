@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\06.Subset Sum\bin\Debug\06.Subset Sum.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\06.Subset Sum\bin\Debug\06.Subset Sum.exe
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\06.Subset Sum\bin\Debug\06.Subset Sum.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\06.Subset Sum\obj\Debug\06.Subset Sum.exe
+C:\Users\User\documents\visual studio 2015\Projects\Homework  Arrays, Lists, Stacks, Queues\06.Subset Sum\obj\Debug\06.Subset Sum.pdb
